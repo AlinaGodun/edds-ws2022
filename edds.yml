@@ -1,0 +1,8 @@
+name: edds
+dependencies:
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - implicit
